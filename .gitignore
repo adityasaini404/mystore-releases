@@ -1,0 +1,23 @@
+# APK files (upload as release assets, not commits)
+*.apk
+*.aab
+*.ap_
+
+# Build outputs
+*.keystore
+*.jks
+keystore.properties
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
