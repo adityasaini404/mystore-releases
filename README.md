@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="MyStore Logo" width="120" height="120" />
+<img src="assets/logo.png" alt="MyStore Logo" width="120" height="120" />
 
 # 🛒 MyStore — Official Releases
 
